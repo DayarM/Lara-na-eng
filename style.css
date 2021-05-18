@@ -75,9 +75,10 @@ body {
 }
 
 #pic {
-    height: 5.5rem; 
-    width: 5rem;
+    height: 7.3rem; 
+    width: 6rem;
     margin-bottom: 1rem;
+    
 }
 
 h1 {
@@ -154,9 +155,9 @@ p {
 
     
     #pic {
-        height: 7.5rem; 
-        width: 7rem;
-        margin: 3rem auto 5rem;
+        height: 11rem;
+        width: 10rem;
+        margin: 2rem auto 2rem;
     }
 
     h1 {

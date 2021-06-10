@@ -62,8 +62,8 @@ body {
     transition: 0.5s;
 }
 
-.links.je {
-    font-size: 1.1rem;
+.links.mkt {
+    font-size: 1.2rem;
     font-weight: 100;
     line-height: 25px;
 }
@@ -150,7 +150,7 @@ p {
     }
 
     .links.mkt:hover {
-        font-size: 1.1rem;
+        font-size: 1.3rem;
     }
 
     
